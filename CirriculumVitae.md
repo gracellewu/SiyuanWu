@@ -5,7 +5,7 @@
 
 ## Personal Data
 - Email: siyuan87@vt.edu
-- English Name: Gracelle Wu
+- English Name: Gracellie Wu
 
 ## Research Interests
 - Watershed Eco-restoration and Management
