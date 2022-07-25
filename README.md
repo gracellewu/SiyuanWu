@@ -4,7 +4,7 @@
 
 
 ## Personal Data
-- Email: siyuan87&#064vt.edu
+- Email: siyuan87@vt.edu
 - English Name: Gracelle Wu
 
 ## Research Interests
